@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- Fullstack with **backend focus**: Java, Go, Python  
+- Fullstack with **backend focus**: Java, Groovy, Go, Python  
 - Building **scalable, secure, cloud-native applications**  
 - Skilled in **microservices, REST & event-driven architectures**  
 - Working in **enterprise environments with CI/CD pipelines**  
