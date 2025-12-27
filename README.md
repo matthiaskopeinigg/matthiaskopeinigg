@@ -1,50 +1,30 @@
 # Hi there 👋 I'm Matthias
 
-🚀 Fullstack Developer based in **Vienna, Austria**  
-💼 Working at **Magenta Telekom**
+🚀 **Senior Fullstack Engineer & Architect** | Vienna, Austria  
+💼 **Magenta Telekom**  
 
 ---
 
 ## 👨‍💻 About Me
-- Fullstack Developer with a strong **backend focus**
-- Building scalable, secure, and maintainable applications
-- Experienced in **enterprise environments** and cloud-native architectures
-- Passionate about clean code, automation, and continuous improvement
+- Fullstack with **backend focus**: Java, Go, Python  
+- Building **scalable, secure, cloud-native applications**  
+- Skilled in **microservices, REST & event-driven architectures**  
+- Working in **enterprise environments with CI/CD pipelines**  
+- Passionate about **clean code, automation, and continuous improvement**  
 
 ---
 
-## 🛠 Tech Stack
-
-### Backend
-- **Java / Spring Framework**
-- **RESTful APIs**
-- **Microservices architecture**
-
-### Frontend
-- **Angular**
-- **TypeScript**
-- **HTML5, SCSS**
-
-### DevOps & Cloud
-- **Docker**
-- **Kubernetes**
-- **CI/CD Pipelines**
-- **Git & GitHub / GitLab**
-
-### Databases
-- **SQL & NoSQL databases**
+## 🛠 Tech Highlights
+- **Backend:** Java, Spring, Go, Python, REST APIs, Microservices  
+- **Frontend:** Angular, TypeScript, HTML5, SCSS  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
+- **Databases:** SQL & NoSQL  
+- **Architecture:** RESTful & event-driven systems  
 
 ---
 
-## 📍 Location
-🇦🇹 Vienna, Austria
+## 🤝 Connect
+- GitHub: [@matthiaskopeinigg](https://github.com/matthiaskopeinigg)  
+- LinkedIn: [@matthias-kopeinigg](https://linkedin.com/in/matthias-kopeinigg-9a49ab238)  
 
----
-
-## 🤝 Connect with Me
-- GitHub: [@matthiaskopeinigg](https://github.com/matthiaskopeinigg)
-- LinkedIn: [@matthias-kopeinigg](https://linkedin.com/in/matthias-kopeinigg-9a49ab238)
-
----
-
-⭐️ *Thanks for visiting my profile!*
+⭐️ Thanks for stopping by!
